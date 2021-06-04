@@ -2,7 +2,6 @@
 __pycache__/
 *.py[cod]
 *$py.class
-*.csv
 
 # C extensions
 *.so
@@ -129,4 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-Amazon_Reviews_ETL_starter_code.ipynb/
+*.csv
