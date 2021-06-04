@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+Amazon_Reviews_ETL_starter_code.ipynb
