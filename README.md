@@ -16,6 +16,6 @@ This analysis was then taken a step further and I only consdiered 5 star reviews
 ## Summary
 We certainly would recommend enrolling in the Amazon Vine Program to our client based on the data we have. 
 
-Because we did take a subset of our data their is certainly bias. I ran all available review data in a separate notebook. This analysis did not only account for reviews with 'total votes' count equal or greater than 20. When I included all reviews, there was still an overwhelming majority of unpaid reviews compared to paid. However, in this analysis, 85% of the 5 star reviews came from paid reviews. This number is significantly higher than the 47% we saw in the first analysis. 
+Because we did take a subset of our data there is certainly bias. I ran all available review data in a separate notebook. This analysis did not only account for reviews with 'total votes' count equal or greater than 20. When I included all reviews, there was still an overwhelming majority of unpaid reviews compared to paid. However, in this analysis, 85% of the 5 star reviews came from paid reviews. This number is significantly higher than the 47% we saw in the first analysis. 
 
 As a next step, our team would look into specific competitor's consumer sentiment data.
